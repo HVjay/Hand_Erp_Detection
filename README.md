@@ -1,5 +1,5 @@
 # Hand_Erp_Detection
-Dectection of Hand Event Relate Potential Actions using EEG data
+Dectection of Hand Event-Related Potential Actions using EEG data
 
 - Data was accquired with MindMonitor app with Muse 2016 Headband
 - Detected ERPs were spreading of fingers, fist clenching and open hand at rest
